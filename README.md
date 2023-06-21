@@ -1,6 +1,6 @@
 # Calculator
-A Simple Calculator Application written with C# .Net MVC
-
+A Simple Calculator Application is written with C# .Net MVC
+UI was developed by .Net MVC with javascript
 
 ### Steps to run the project
 1. Open root solution file in visual studio
